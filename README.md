@@ -1,27 +1,130 @@
-# 💫 About Me:
-🔭 Backend dev working as a Frontend trainee
+<div align="center">
 
+# Priyadarshan Giri
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giripriyadarshan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giripriyadarshan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10403961) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/giripriyadarshn) 
+[![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&pause=1000&color=DEA584&center=true&vCenter=true&width=620&lines=Rust+Developer;Backend+%26+Systems+Engineer;Building+for+the+Edge+with+WebAssembly;Secure%2C+Scalable+%26+Observable+Software)](https://github.com/giripriyadarshan)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giripriyadarshan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giripriyadarshan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Rust developer focused on **backend, systems, and the edge** — building secure, scalable, and highly observable software. 🦀
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=giripriyadarshan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giripriyadarshan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@giripriyadarshan.com)
+[![Website](https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giripriyadarshan.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.giripriyadarshan.com)
+[![crates.io](https://img.shields.io/badge/crates.io-E6B17E?style=for-the-badge&logo=rust&logoColor=2B2B2B)](https://crates.io/users/giripriyadarshan)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10403961)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=giripriyadarshan&style=flat&color=DEA584&label=Profile+Views)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=giripriyadarshan&icon=7&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyadarshan) 
+## 🦀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m a software engineer who reaches for **Rust** to build reliable backends, fast CLIs, and edge-native services. I care about clean architecture, strong typing, and systems you can actually observe in production.
+
+- 🔭 **Working Student** @ Digital Science (metaphacts App Development Team) — full-stack observability, federated IAM, and SPARQL/RDF4J middleware.
+- 🎓 Pursuing a **Master in Applied Computer Science** at SRH University, Heidelberg.
+- 🧵 **Thesis:** *Distributed Tracing & Performance Analysis of a Knowledge Graph Deployment using OpenTelemetry.*
+- 🌱 Currently deepening my work with **distributed systems, observability (OpenTelemetry), and Kubernetes**.
+- 🌍 Based near **Heidelberg, Germany**.
+- 💬 Always happy to talk Rust, backend architecture, and observability.
+- 📫 Reach me at **<me@giripriyadarshan.com>**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Rust Ecosystem**
+
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white)
+![async-graphql](https://img.shields.io/badge/async--graphql-E10098?style=flat&logo=graphql&logoColor=white)
+![SeaORM](https://img.shields.io/badge/SeaORM-000000?style=flat&logo=rust&logoColor=white)
+![Serde](https://img.shields.io/badge/Serde-000000?style=flat&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
+![Yew](https://img.shields.io/badge/Yew%20%2F%20Wasm-654FF0?style=flat&logo=webassembly&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=flat&logo=solid&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Databases & Observability**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Cric Cal](https://cricker.giripriyadarshan.com)** · [live](https://cricket.giripriyadarshan.com) | Serverless cricket-calendar engine running on the edge — ingests fixtures and serves dynamic, deduplicated `.ics` feeds in milliseconds. | `Rust` `Wasm` `Cloudflare Workers` `D1` |
+| **[Servust](https://github.com/giripriyadarshan/servust)** · [docs](https://servust.giripriyadarshan.com) | A `create-react-app`-style CLI that scaffolds Rust backend servers from templates, by framework and ORM. | `Rust` `CLI` `crates.io` |
+| **[Online Retail Management System](https://github.com/giripriyadarshan/sdp-project)** | Full-stack retail backend with auth, catalog, and orders — built end-to-end in Rust. | `Axum` `async-graphql` `SeaORM` `Postgres` `JWT` `Argon2` |
+| **[Tauri Plugin: OpenURL](https://github.com/giripriyadarshan/tauri-plugin-openurl)** · [crate](https://crates.io/crates/tauri-plugin-openurl) | FOSS Tauri plugin to open links in the system browser instead of inside the app window. | `Rust` `Tauri` `FOSS` |
+| **[Project Structure Creator](https://github.com/giripriyadarshan/project-structure-creator)** · [crate](https://crates.io/crates/project-structure-creator) | CLI that turns an ASCII tree into a real directory/file structure. | `Rust` `CLI` `crates.io` |
+
+---
+
+## 📦 Published Crates
+
+> **~21K+ downloads** across published crates on [crates.io](https://crates.io/users/giripriyadarshan).
+
+| Crate | Version | Downloads |
+| :--- | :--- | :--- |
+| [servust](https://crates.io/crates/servust) | ![version](https://img.shields.io/crates/v/servust?logo=rust&logoColor=white&color=E6B17E) | ![downloads](https://img.shields.io/crates/d/servust?color=2F855A&label=) |
+| [tauri-plugin-openurl](https://crates.io/crates/tauri-plugin-openurl) | ![version](https://img.shields.io/crates/v/tauri-plugin-openurl?logo=rust&logoColor=white&color=E6B17E) | ![downloads](https://img.shields.io/crates/d/tauri-plugin-openurl?color=2F855A&label=) |
+| [project-structure-creator](https://crates.io/crates/project-structure-creator) | ![version](https://img.shields.io/crates/v/project-structure-creator?logo=rust&logoColor=white&color=E6B17E) | ![downloads](https://img.shields.io/crates/d/project-structure-creator?color=2F855A&label=) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giripriyadarshan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giripriyadarshan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=giripriyadarshan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Let’s build something fast, safe, and observable.* 🦀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giripriyadarshan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@giripriyadarshan.com)
+[![Website](https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giripriyadarshan.com)
+
+</div>
